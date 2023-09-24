@@ -1,7 +1,6 @@
 # multi_arm
 
-requirements:
-
+requirements:  
 ![1695562938455](https://github.com/AvalonGuo/multi_arm/assets/99348377/8b3d4a1d-f47c-4a8f-b67b-bf7be244a74f)
 
 100w-timesteps的验证结果:
