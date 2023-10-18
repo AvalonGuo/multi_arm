@@ -13,11 +13,6 @@ requirements:
 
 ![1695563040992](https://github.com/AvalonGuo/multi_arm/assets/99348377/78f7d5de-b5dd-46f4-8454-192999ef4389)
 
-Multi_Reach框架:
-第一个是环境,第二个是训练，第三个是eval
-
-![1695563169615](https://github.com/AvalonGuo/multi_arm/assets/99348377/337b1fcc-eaeb-48ab-9cfa-78ccac6a3039)
-
 
 
 
